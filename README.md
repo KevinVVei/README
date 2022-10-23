@@ -6,5 +6,5 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KevinVVei&show_icons=true&theme=tokyonight">
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVVei&layout=compact">
 
-[![KevinVVei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinVVei)](https://github.com/=KevinVVei/github-readme-stats)
+![KevinVVei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinVVei)
 
